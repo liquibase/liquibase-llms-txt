@@ -1,0 +1,8 @@
+# Liquibase Docs
+
+> Liquibase documentation as plain Markdown, exported from the published site at https://docs.liquibase.com for AI assistants and tooling. One file per page, at the page's site path.
+
+The curated question-and-answer index for the whole site is at https://docs.liquibase.com/llms.txt. This file lists the pages present in this repository.
+
+## Pages
+- [Liquibase Secure 6.0 documentation](https://docs.liquibase.com/): Everything you need to run change tracking, policy governance and automated delivery in one platform. Start with the capability you came for, or follow the lifecycle from an empty project to a governed pipeline.
